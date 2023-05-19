@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DisplayTriggeredLauncher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DisplayTriggeredLauncher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
